@@ -1,0 +1,278 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+LANGUAGE="en";
+CREATION-DATE="20200907 11:03";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="NQQ44";
+SUBJECT-AREA="";
+SUBJECT-CODE="DB";
+TITLE="Gross Domestic Product and Gross National Product by State, Quarter and"
+"Statistic";
+CONTENTS="Gross Domestic Product and Gross National Product";
+UNITS="Euro Million";
+STUB="State","Quarter";
+HEADING="Statistic";
+CONTVARIABLE="Statistic";
+VALUES("State")="State";
+VALUES("Quarter")="1995Q1","1995Q2","1995Q3","1995Q4","1996Q1","1996Q2","1996Q3","1996Q4","1997Q1","1997Q2","1997Q3","1997Q4","1998Q1",
+"1998Q2","1998Q3","1998Q4","1999Q1","1999Q2","1999Q3","1999Q4","2000Q1","2000Q2","2000Q3","2000Q4","2001Q1","2001Q2","2001Q3",
+"2001Q4","2002Q1","2002Q2","2002Q3","2002Q4","2003Q1","2003Q2","2003Q3","2003Q4","2004Q1","2004Q2","2004Q3","2004Q4","2005Q1",
+"2005Q2","2005Q3","2005Q4","2006Q1","2006Q2","2006Q3","2006Q4","2007Q1","2007Q2","2007Q3","2007Q4","2008Q1","2008Q2","2008Q3",
+"2008Q4","2009Q1","2009Q2","2009Q3","2009Q4","2010Q1","2010Q2","2010Q3","2010Q4","2011Q1","2011Q2","2011Q3","2011Q4","2012Q1",
+"2012Q2","2012Q3","2012Q4","2013Q1","2013Q2","2013Q3","2013Q4","2014Q1","2014Q2","2014Q3","2014Q4","2015Q1","2015Q2","2015Q3",
+"2015Q4","2016Q1","2016Q2","2016Q3","2016Q4","2017Q1","2017Q2","2017Q3","2017Q4","2018Q1","2018Q2","2018Q3","2018Q4","2019Q1",
+"2019Q2","2019Q3","2019Q4","2020Q1","2020Q2";
+VALUES("Statistic")="GVA at Constant Basic Prices (chain linked annually ref to 2018) (Euro Million)",
+"Taxes on Products (chain linked annually ref to 2018) (Euro Million)","Subsidies on Products (chain linked annually ref to 2018) (Euro Million)",
+"GDP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)","Net Factor Income from Rest of World (chain linked annually ref to 2018) (Euro Million)",
+"GNP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)","GVA at Current Basic Prices (Euro Million)",
+"Taxes on Products at Current Prices (Euro Million)","Subsidies on Products at Current Prices  (Euro Million)",
+"GDP at Current Market Prices (Euro Million)","Net Factor Income from Rest of World at Current Prices (Euro Million)",
+"GNP at Current Market Prices  (Euro Million)","GVA at Constant Basic Prices (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)",
+"GDP at Current Market Prices (Seasonally Adjusted) (Euro Million)","Net Factor Income from Rest of World at Current Prices (Seasonally Adjusted) (Euro Million)",
+"GNP at Current Market Prices  (Seasonally Adjusted) (Euro Million)","Taxes on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)",
+"Subsidies on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)",
+"GDP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)",
+"Net Factor Income from Rest of World (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)",
+"GNP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)",
+"GVA at Current Basic Prices (Seasonally Adjusted) (Euro Million)","Taxes on Products at Current Prices (Seasonally Adjusted) (Euro Million)",
+"Subsidies on Products at Current Prices  (Seasonally Adjusted) (Euro Million)";
+TIMEVAL("Quarter")=TLIST(Q1),"19951","19952","19953","19954","19961","19962","19963","19964","19971","19972","19973","19974","19981","19982","19983",
+"19984","19991","19992","19993","19994","20001","20002","20003","20004","20011","20012","20013","20014","20021","20022","20023","20024",
+"20031","20032","20033","20034","20041","20042","20043","20044","20051","20052","20053","20054","20061","20062","20063","20064","20071",
+"20072","20073","20074","20081","20082","20083","20084","20091","20092","20093","20094","20101","20102","20103","20104","20111","20112",
+"20113","20114","20121","20122","20123","20124","20131","20132","20133","20134","20141","20142","20143","20144","20151","20152","20153",
+"20154","20161","20162","20163","20164","20171","20172","20173","20174","20181","20182","20183","20184","20191","20192","20193","20194",
+"20201","20202";
+CODES("State")="-";
+CODES("Statistic")="NQQ44C01","NQQ44C02","NQQ44C03","NQQ44C04","NQQ44C05","NQQ44C06","NQQ44C07","NQQ44C08","NQQ44C09",
+"NQQ44C10","NQQ44C11","NQQ44C12","NQQ44S1","NQQ44S10","NQQ44S11","NQQ44S12","NQQ44S2","NQQ44S3","NQQ44S4","NQQ44S5",
+"NQQ44S6","NQQ44S7","NQQ44S8","NQQ44S9";
+DOMAIN("State")="C02196V02652";
+LAST-UPDATED("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Taxes on Products (chain linked annually ref to 2018) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Subsidies on Products (chain linked annually ref to 2018) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GDP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GNP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GVA at Current Basic Prices (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Taxes on Products at Current Prices (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Subsidies on Products at Current Prices  (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GDP at Current Market Prices (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Net Factor Income from Rest of World at Current Prices (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GNP at Current Market Prices  (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GDP at Current Market Prices (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Net Factor Income from Rest of World at Current Prices (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GNP at Current Market Prices  (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Taxes on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Subsidies on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GDP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GNP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("GVA at Current Basic Prices (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Taxes on Products at Current Prices (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+LAST-UPDATED("Subsidies on Products at Current Prices  (Seasonally Adjusted) (Euro Million)")="20200904 14:34";
+SEASADJ("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Euro Million)")=NO;
+SEASADJ("Taxes on Products (chain linked annually ref to 2018) (Euro Million)")=NO;
+SEASADJ("Subsidies on Products (chain linked annually ref to 2018) (Euro Million)")=NO;
+SEASADJ("GDP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")=NO;
+SEASADJ("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Euro Million)")=NO;
+SEASADJ("GNP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")=NO;
+SEASADJ("GVA at Current Basic Prices (Euro Million)")=NO;
+SEASADJ("Taxes on Products at Current Prices (Euro Million)")=NO;
+SEASADJ("Subsidies on Products at Current Prices  (Euro Million)")=NO;
+SEASADJ("GDP at Current Market Prices (Euro Million)")=NO;
+SEASADJ("Net Factor Income from Rest of World at Current Prices (Euro Million)")=NO;
+SEASADJ("GNP at Current Market Prices  (Euro Million)")=NO;
+SEASADJ("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("GDP at Current Market Prices (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("Net Factor Income from Rest of World at Current Prices (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("GNP at Current Market Prices  (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("Taxes on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("Subsidies on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("GDP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("GNP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("GVA at Current Basic Prices (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("Taxes on Products at Current Prices (Seasonally Adjusted) (Euro Million)")=YES;
+SEASADJ("Subsidies on Products at Current Prices  (Seasonally Adjusted) (Euro Million)")=YES;
+UNITS("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Euro Million)")="Euro Million";
+UNITS("Taxes on Products (chain linked annually ref to 2018) (Euro Million)")="Euro Million";
+UNITS("Subsidies on Products (chain linked annually ref to 2018) (Euro Million)")="Euro Million";
+UNITS("GDP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")="Euro Million";
+UNITS("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Euro Million)")="Euro Million";
+UNITS("GNP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")="Euro Million";
+UNITS("GVA at Current Basic Prices (Euro Million)")="Euro Million";
+UNITS("Taxes on Products at Current Prices (Euro Million)")="Euro Million";
+UNITS("Subsidies on Products at Current Prices  (Euro Million)")="Euro Million";
+UNITS("GDP at Current Market Prices (Euro Million)")="Euro Million";
+UNITS("Net Factor Income from Rest of World at Current Prices (Euro Million)")="Euro Million";
+UNITS("GNP at Current Market Prices  (Euro Million)")="Euro Million";
+UNITS("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("GDP at Current Market Prices (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("Net Factor Income from Rest of World at Current Prices (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("GNP at Current Market Prices  (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("Taxes on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("Subsidies on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("GDP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("GNP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("GVA at Current Basic Prices (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("Taxes on Products at Current Prices (Seasonally Adjusted) (Euro Million)")="Euro Million";
+UNITS("Subsidies on Products at Current Prices  (Seasonally Adjusted) (Euro Million)")="Euro Million";
+SOURCE="Central Statistics Office, Ireland";
+DATABASE="CSO Databank";
+REFPERIOD("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Euro Million)")=" ";
+REFPERIOD("Taxes on Products (chain linked annually ref to 2018) (Euro Million)")=" ";
+REFPERIOD("Subsidies on Products (chain linked annually ref to 2018) (Euro Million)")=" ";
+REFPERIOD("GDP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")=" ";
+REFPERIOD("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Euro Million)")=" ";
+REFPERIOD("GNP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")=" ";
+REFPERIOD("GVA at Current Basic Prices (Euro Million)")=" ";
+REFPERIOD("Taxes on Products at Current Prices (Euro Million)")=" ";
+REFPERIOD("Subsidies on Products at Current Prices  (Euro Million)")=" ";
+REFPERIOD("GDP at Current Market Prices (Euro Million)")=" ";
+REFPERIOD("Net Factor Income from Rest of World at Current Prices (Euro Million)")=" ";
+REFPERIOD("GNP at Current Market Prices  (Euro Million)")=" ";
+REFPERIOD("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("GDP at Current Market Prices (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("Net Factor Income from Rest of World at Current Prices (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("GNP at Current Market Prices  (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("Taxes on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("Subsidies on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("GDP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("GNP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("GVA at Current Basic Prices (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("Taxes on Products at Current Prices (Seasonally Adjusted) (Euro Million)")=" ";
+REFPERIOD("Subsidies on Products at Current Prices  (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Euro Million)")=" ";
+BASEPERIOD("Taxes on Products (chain linked annually ref to 2018) (Euro Million)")=" ";
+BASEPERIOD("Subsidies on Products (chain linked annually ref to 2018) (Euro Million)")=" ";
+BASEPERIOD("GDP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")=" ";
+BASEPERIOD("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Euro Million)")=" ";
+BASEPERIOD("GNP at Constant (chain linked annually ref to 2018) Market Prices (Euro Million)")=" ";
+BASEPERIOD("GVA at Current Basic Prices (Euro Million)")=" ";
+BASEPERIOD("Taxes on Products at Current Prices (Euro Million)")=" ";
+BASEPERIOD("Subsidies on Products at Current Prices  (Euro Million)")=" ";
+BASEPERIOD("GDP at Current Market Prices (Euro Million)")=" ";
+BASEPERIOD("Net Factor Income from Rest of World at Current Prices (Euro Million)")=" ";
+BASEPERIOD("GNP at Current Market Prices  (Euro Million)")=" ";
+BASEPERIOD("GVA at Constant Basic Prices (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("GDP at Current Market Prices (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("Net Factor Income from Rest of World at Current Prices (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("GNP at Current Market Prices  (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("Taxes on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("Subsidies on Products (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("GDP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("Net Factor Income from Rest of World (chain linked annually ref to 2018) (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("GNP at Constant (chain linked annually ref to 2018) Market Prices (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("GVA at Current Basic Prices (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("Taxes on Products at Current Prices (Seasonally Adjusted) (Euro Million)")=" ";
+BASEPERIOD("Subsidies on Products at Current Prices  (Seasonally Adjusted) (Euro Million)")=" ";
+INFOFILE="DB_NQ";
+DATA=
+20670 2398 -371 22732 -1910 21336 11778 1624 -248 13154 -1620 11534 21298 13163 -1483 11681 2471 -469 23300 -1714 21586 11794 1680 -311 
+21450 2569 -412 23653 -1903 22349 12477 1740 -275 13942 -1431 12511 21379 13575 -1388 12187 2556 -446 23488 -1697 21792 12141 1729 -295 
+21884 2652 -639 23912 -1468 23389 12239 1796 -429 13606 -1399 12207 21967 13838 -1409 12429 2638 -717 23888 -1633 22255 12529 1784 -474 
+21703 2758 -685 23804 -1632 22986 12657 1868 -460 14065 -1498 12567 22168 14131 -1654 12476 2708 -508 24369 -1840 22529 12635 1832 -336 
+22328 2667 -429 24613 -2111 23075 13101 1793 -284 14610 -1780 12829 22810 14580 -1663 12917 2744 -545 25010 -1954 23056 13087 1853 -359 
+23332 2840 -469 25758 -2103 24317 13659 1921 -313 15267 -1573 13694 23154 14951 -1543 13409 2827 -504 25477 -1926 23551 13374 1910 -333 
+23092 2927 -732 25315 -1622 24605 13262 1983 -492 14753 -1537 13216 23336 15031 -1512 13519 2916 -831 25421 -1721 23700 13608 1973 -550 
+23037 3050 -776 25352 -1803 24357 13973 2062 -521 15515 -1645 13869 23637 15621 -1795 13826 2995 -575 26057 -1994 24063 13978 2023 -379 
+23951 3038 -486 26572 -2572 24476 14386 2042 -322 16106 -2222 13885 24379 16112 -2142 13970 3109 -618 26870 -2477 24392 14422 2099 -408 
+25569 3235 -609 28255 -2562 26292 15572 2188 -407 17353 -2213 15140 25361 16952 -2203 14749 3235 -647 27949 -2439 25510 15194 2184 -427 
+25633 3334 -539 28511 -1976 27466 15483 2258 -360 17381 -1707 15674 25879 17675 -1627 16047 3323 -625 28576 -1969 26608 15840 2249 -414 
+26157 3438 -819 28828 -2196 27466 16736 2349 -555 18530 -1898 16633 26493 18620 -2033 16586 3387 -599 29281 -2354 26927 16707 2312 -400 
+26332 3400 -458 29362 -2397 27726 17097 2328 -309 19117 -2129 16988 26785 19019 -2104 16916 3426 -586 29625 -2394 27231 17059 2355 -394 
+27390 3592 -622 30443 -2865 28182 17987 2495 -427 20055 -2484 17571 27318 19780 -2485 17295 3657 -649 30327 -2794 27532 17685 2535 -440 
+28250 3691 -463 31579 -3162 28952 18294 2575 -318 20552 -2722 17829 28528 20835 -2595 18240 3646 -550 31624 -3051 28573 18670 2540 -375 
+27549 3834 -889 30572 -2548 28792 18576 2678 -616 20638 -2215 18422 27859 20741 -2340 18401 3820 -644 31035 -2671 28365 18513 2668 -440 
+28721 3834 -434 32225 -2795 30178 19481 2666 -297 21850 -2656 19194 29238 21678 -2678 19000 3759 -557 32441 -2865 29576 19436 2622 -380 
+29176 4057 -541 32801 -3299 30082 19986 2856 -376 22467 -3054 19413 29071 22327 -3040 19287 4271 -556 32786 -3276 29510 19709 3000 -382 
+30765 4165 -495 34549 -4176 30705 21002 2948 -344 23605 -3887 19718 30951 23864 -3756 20108 4035 -605 34381 -4001 30380 21431 2852 -419 
+31581 4289 -779 35193 -3838 31858 22232 3066 -551 24746 -3681 21065 31487 24807 -3793 21014 4345 -552 35281 -3920 31361 22086 3108 -387 
+30764 4851 -544 35201 -3583 32229 22431 3519 -388 25561 -3466 22095 31322 25555 -3509 22046 4610 -708 35225 -3698 31527 22705 3355 -505 
+32720 4075 -527 36377 -3257 33955 24114 3020 -385 26749 -3157 23592 32352 26559 -3104 23455 4484 -541 36295 -3249 33047 23638 3312 -392 
+32967 4933 -370 37667 -4336 33755 23960 3708 -271 27397 -4232 23165 32915 27576 -4154 23422 4655 -448 37122 -4183 32939 24410 3496 -330 
+34741 4158 -793 38210 -4423 34207 26124 3169 -599 28693 -4472 24221 33713 28532 -4572 23959 4272 -562 37423 -4455 32967 25694 3259 -421 
+33380 4740 -358 37890 -4229 34158 26441 3620 -268 29793 -4114 25679 34374 29888 -4144 25744 4410 -461 38324 -4336 33988 26856 3379 -347 
+35155 3761 -336 38697 -5014 33901 27788 2938 -258 30468 -4971 25497 34609 30223 -4859 25364 4295 -346 38558 -4995 33563 27148 3340 -265 
+34366 4716 -448 38761 -5243 33644 26940 3707 -347 30300 -5046 25254 34736 30624 -5065 25558 4366 -538 38563 -5174 33390 27609 3432 -416 
+36212 4310 -706 39938 -5219 34925 28587 3417 -555 31449 -5011 26438 35538 31244 -5101 26143 4441 -501 39478 -5218 34260 28112 3524 -391 
+35389 4826 -407 39932 -6088 33817 29228 3859 -321 32766 -5864 26902 36092 32985 -5879 27106 4461 -524 40030 -6182 33848 29821 3578 -415 
+37182 3909 -532 40696 -6043 34673 30939 3193 -431 33701 -6315 27386 36287 33197 -6102 27096 4564 -555 40297 -5920 34377 29933 3710 -445 
+36486 5099 -503 41209 -6015 35244 30351 4182 -408 34125 -5556 28569 37567 34800 -5698 29101 4663 -582 41648 -6095 35553 31445 3826 -472 
+38738 4618 -888 42609 -6460 36130 32262 3836 -734 35364 -5997 29367 37821 35017 -6103 28914 4755 -649 41927 -6470 35457 31597 3952 -532 
+36022 5059 -417 40784 -5951 34870 31216 4244 -347 35112 -5758 29354 37315 35143 -5729 29413 4680 -529 41466 -5982 35484 31649 3935 -441 
+38211 3969 -511 41815 -5885 36011 33152 3365 -431 36086 -5586 30500 37485 35722 -5292 30430 4676 -535 41626 -5681 35945 32223 3947 -448 
+36530 5455 -520 41584 -5416 36337 31431 4611 -437 35605 -5016 30589 38068 36315 -5235 31080 4952 -575 42445 -5573 36872 32610 4188 -483 
+40896 4953 -800 45198 -6095 39244 35204 4202 -676 38731 -5410 33321 39895 38386 -5577 32809 5118 -608 44405 -6202 38204 34551 4344 -509 
+38687 5616 -513 43915 -6048 37978 33662 4787 -435 38014 -5711 32303 39644 38015 -5628 32387 5190 -639 44195 -6006 38189 34126 4431 -542 
+41321 4509 -544 45443 -6392 39153 35904 3889 -467 39325 -5990 33335 40378 38984 -5627 33357 5328 -572 45133 -6082 39051 34890 4583 -489 
+38937 5902 -450 44509 -5963 38676 33601 5120 -388 38333 -5537 32796 40465 39102 -5806 33296 5318 -466 45318 -6189 39129 34891 4613 -403 
+42308 5253 -711 47003 -6150 41007 36555 4580 -617 40518 -5753 34765 41312 40197 -5983 34214 5494 -578 46228 -6354 39875 35901 4793 -497 
+40513 6145 -293 46505 -6547 40062 36009 5353 -253 41109 -6166 34943 41532 41236 -6032 35204 5641 -348 46825 -6437 40388 36617 4921 -303 
+43332 4953 -343 48091 -7639 40471 38661 4369 -301 42729 -7106 35623 42124 42202 -6738 35464 5866 -363 47628 -7302 40326 37355 5164 -317 
+40480 6730 -320 47030 -6013 41184 36391 5986 -282 42095 -5726 36370 41921 42758 -5939 36819 6031 -311 47641 -6165 41476 37672 5362 -276 
+44541 5520 -593 49620 -6193 43620 39887 4940 -529 44298 -5822 38476 43423 43951 -6160 37791 5848 -517 48754 -6568 42186 39168 5238 -456 
+42648 6945 -248 49485 -6826 42783 39233 6245 -221 45257 -6242 39015 43730 45307 -6079 39228 6325 -285 49770 -6676 43094 39869 5694 -256 
+44664 5289 -274 49837 -6596 43386 41358 4845 -250 45953 -6042 39911 43741 45672 -5653 40019 6287 -289 49739 -6193 43546 40185 5750 -263 
+43258 7265 -354 50311 -7607 42784 39914 6735 -326 46322 -6894 39428 44235 46782 -7031 39751 6485 -331 50389 -7688 42700 41083 6005 -306 
+45296 5997 -290 51160 -5614 45775 42047 5604 -269 47382 -5098 42284 44403 47040 -5571 41469 6390 -267 50526 -6163 44363 41303 5983 -246 
+46320 7268 -286 53458 -8244 45378 43033 6862 -269 49626 -7504 42122 47321 49561 -7296 42266 6602 -318 53606 -8040 45566 43625 6237 -301 
+47471 5469 -312 52791 -8388 44568 44481 5260 -299 49442 -7690 41752 46378 49484 -7309 42175 6535 -333 52580 -7974 44606 43528 6275 -319 
+44977 6747 -393 51484 -6944 44689 41957 6551 -381 48128 -6354 41774 45744 48317 -6367 41950 5991 -360 51376 -6883 44492 42855 5810 -348 
+48324 5494 -246 53739 -7297 46598 44791 5382 -240 49934 -6601 43332 48400 49739 -7256 42483 5843 -232 54011 -8086 45925 44225 5740 -225 
+45983 6217 -342 52017 -6976 45183 42468 6138 -337 48269 -6541 41728 46571 48541 -6267 42274 5673 -374 51870 -6683 45187 43311 5600 -371 
+46762 4387 -315 50931 -7284 43797 43167 4410 -316 47260 -6716 40545 45738 47052 -6307 40745 5293 -340 50691 -6807 43885 42078 5315 -341 
+45335 5794 -368 50905 -7946 43123 41462 5865 -372 46955 -7432 39523 46110 47060 -7406 39653 5080 -336 50853 -7881 42972 42264 5135 -339 
+44206 4184 -252 48233 -6276 42086 41189 4197 -252 45135 -6028 39107 44245 45089 -6794 38296 4442 -236 48451 -7173 41278 40853 4472 -235 
+43987 4524 -286 48312 -8141 40290 39314 4399 -278 43435 -7414 36021 44528 43397 -7075 36322 4165 -310 48382 -7786 40597 39654 4046 -303 
+45175 3597 -313 48463 -8606 39969 39982 3451 -300 43133 -7851 35282 44150 43016 -7454 35562 4379 -343 48186 -8120 40066 39147 4198 -328 
+43296 5115 -347 48196 -8613 39694 37701 4858 -329 42230 -7721 34509 43818 42103 -7647 34456 4419 -322 47916 -8516 39400 38214 4193 -304 
+43165 4013 -363 46860 -7330 39654 37539 3792 -342 40988 -6428 34560 43300 41232 -7280 33951 4269 -329 47239 -8311 38929 37499 4043 -310 
+43900 4549 -290 48249 -8690 39665 37729 4273 -271 41731 -8018 33713 44539 41700 -7630 34071 4210 -318 48431 -8314 40118 38044 3955 -299 
+45628 3516 -234 48910 -8741 40279 38601 3327 -221 41708 -8025 33683 44365 41720 -7623 34098 4325 -257 48433 -8188 40245 37876 4087 -242 
+44800 5176 -302 49807 -7673 42274 38116 4925 -287 42754 -7197 35557 44817 42276 -7131 35145 4409 -287 48939 -7627 41312 38357 4191 -272 
+44611 3969 -348 48266 -5643 42800 38029 3784 -331 41481 -5218 36264 44814 41968 -6091 35878 4257 -305 48766 -6629 42137 38192 4066 -290 
+44460 4536 -252 48839 -9215 39610 38065 4357 -242 42180 -8409 33771 44788 42290 -7980 34310 4192 -281 48699 -8844 39855 38530 4031 -270 
+46681 3275 -253 49650 -9712 39890 40133 3188 -246 43074 -8812 34262 45457 42978 -8450 34528 4056 -280 49234 -9130 40104 39310 3939 -271 
+45339 4723 -284 49881 -9014 40890 39306 4603 -277 43632 -8384 35248 44986 42977 -8308 34669 3993 -274 48705 -8946 39759 39354 3889 -266 
+44472 3878 -331 48037 -8777 39273 38591 3797 -323 42064 -8182 33882 44583 42550 -9055 33495 4190 -282 48492 -9823 38669 38718 4107 -276 
+44143 4468 -240 48469 -9793 38618 39262 4384 -235 43411 -9405 34006 44652 43702 -8927 34775 4121 -274 48499 -9451 39048 39919 4052 -269 
+46450 3310 -259 49442 -9397 40027 40636 3278 -256 43658 -8840 34818 45317 43834 -8538 35296 4094 -283 49127 -8699 40428 40071 4042 -279 
+45035 4980 -282 49877 -9264 40611 40108 4937 -279 44766 -8982 35784 44339 43681 -8955 34726 4205 -273 48271 -9261 39010 39787 4165 -270 
+45456 3783 -361 48869 -8610 40290 39884 3743 -357 43269 -8118 35151 45419 43760 -8876 34884 4110 -305 49224 -9641 39583 39994 4068 -302 
+43180 4643 -247 47697 -7748 40047 38947 4598 -244 43302 -7440 35861 44029 43774 -6944 36831 4285 -285 48029 -7483 40546 39800 4257 -283 
+46067 3409 -266 49170 -8940 40247 41240 3393 -265 44368 -8401 35967 45366 44481 -8239 36242 4164 -289 49241 -8155 41085 40635 4132 -286 
+47114 5103 -290 52061 -7921 44296 42076 5076 -288 46864 -7467 39397 46649 45713 -7413 38300 4343 -281 50711 -7904 42807 41677 4315 -279 
+46449 3963 -285 50141 -6427 43970 41436 3928 -282 45082 -5977 39106 46245 45398 -6632 38767 4296 -241 50299 -7480 42819 41381 4257 -239 
+47057 4799 -216 51745 -8337 43529 41944 4757 -214 46487 -7822 38665 47877 46916 -7339 39577 4453 -251 52078 -8172 43906 42733 4433 -250 
+49663 3951 -233 53380 -8914 44573 44586 3946 -233 48299 -8394 39905 49455 48857 -8323 40534 4724 -250 53928 -7997 45931 44404 4702 -249 
+51130 5170 -252 56156 -8629 47683 45692 5160 -252 50600 -8163 42436 50483 49169 -8114 41055 4473 -244 54712 -8653 46060 44954 4457 -243 
+50506 4706 -285 54989 -7301 47908 45381 4665 -283 49763 -7028 42735 49610 50042 -7581 42461 5063 -245 54429 -8334 46094 45271 5013 -243 
+61792 5171 -196 66799 -16244 50371 58366 5097 -193 63270 -16320 46949 62586 63423 -15855 47568 4801 -226 67160 -16144 51016 58888 4759 -224 
+60716 4238 -211 64687 -11526 53242 58950 4216 -210 62956 -11711 51245 60936 64066 -11712 52353 5011 -225 65722 -10559 55164 59319 4970 -223 
+64618 5692 -235 70134 -17957 51927 62480 5671 -234 67917 -18127 49790 63363 66333 -18065 48268 4997 -228 68132 -18010 50122 61595 4964 -226 
+64687 4715 -259 69100 -15642 53339 64298 4668 -256 68710 -15884 52826 63934 68933 -16364 52569 5029 -224 68739 -16598 52142 64176 4979 -222 
+60366 5729 -206 65908 -11306 54675 59122 5641 -203 64560 -11281 53279 60990 65335 -10879 54456 5297 -237 66050 -11291 54759 60323 5246 -234 
+60978 4563 -222 65312 -11817 53535 59094 4546 -221 63419 -11619 51800 61717 64338 -11586 52752 5416 -236 66897 -10816 56081 59193 5379 -234 
+63343 5833 -242 68950 -14812 54060 63166 5818 -241 68743 -14727 54016 62117 66797 -14729 52068 5150 -235 67032 -14967 52065 61915 5116 -233 
+71304 4935 -275 75947 -13479 62529 69479 4881 -272 74088 -13456 60633 69391 73918 -13824 60094 5232 -239 74383 -14217 60166 68975 5181 -237 
+64257 5978 -210 70035 -15157 54867 64320 5916 -208 70027 -15412 54615 66767 70518 -15104 55414 5493 -239 72021 -15236 56785 65290 5465 -237 
+66643 4285 -226 70691 -16537 54123 66411 4277 -225 70463 -16671 53792 67208 71516 -16619 54897 5168 -239 72137 -15642 56495 66609 5145 -238 
+73094 6209 -247 79062 -14325 64771 72297 6203 -247 78253 -14204 64049 71612 75874 -14192 61682 5449 -241 76820 -14489 62331 70694 5420 -240 
+76460 5364 -280 81537 -16405 65140 76591 5331 -278 81644 -15965 65679 73770 80648 -16282 64366 5667 -245 79192 -16915 62277 75248 5644 -244 
+72702 5949 -224 78426 -16843 61583 73970 5903 -222 79650 -17142 62509 75749 80616 -16963 63653 5480 -252 80977 -17035 63941 75406 5461 -251 
+74725 4494 -241 78980 -16462 62519 73751 4493 -241 78004 -16453 61550 76100 80624 -16299 64324 5453 -254 81300 -15673 65627 75435 5441 -253 
+78933 6624 -262 85294 -16925 68369 78637 6668 -263 85041 -16989 68052 77170 82058 -17006 65053 5784 -256 82697 -17098 65599 76519 5796 -257 
+79173 5408 -296 84286 -20434 63851 79175 5412 -296 84291 -20079 64211 77640 83943 -20360 63583 5700 -261 83079 -20737 62342 78487 5718 -262 
+75651 6450 -220 81880 -19350 62530 78697 6453 -220 84929 -19922 65007 78202 85326 -19826 65500 5984 -246 83939 -19614 64326 79565 6008 -247 
+78735 4923 -236 83421 -20920 62502 80188 4982 -239 84931 -21258 63673 79849 87733 -21061 66673 5942 -248 85543 -20273 65271 81977 6006 -250 
+84036 6869 -258 90647 -19923 70724 86523 6963 -261 93225 -20389 72836 82601 89987 -20380 69606 5997 -253 88346 -20043 68302 84188 6054 -256 
+83797 5729 -292 89235 -19956 69279 87467 5794 -295 92966 -20153 72813 83754 92858 -20431 72426 6014 -258 89510 -20141 69369 87023 6097 -262 
+82180 4582 -250 86512 -19346 67166 87191 4631 -252 91570 -20014 71556 83655 92491 -19981 72510 4294 -278 87671 -19673 67998 88420 4352 -282 
+77352 3818 -274 80896 -19974 60922 79223 3852 -277 82799 -20043 62756 78090 86322 -19799 66523 4552 -286 82356 -19383 62973 82017 4592 -288;
